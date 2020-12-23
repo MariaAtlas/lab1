@@ -85,8 +85,7 @@ void float_binary() {
 	cout << "\n\n";
 }
 
-int main()
-{
+int main() {
 	setlocale(LC_ALL, "Russian");
 	short int choice, exit = 0;
 
